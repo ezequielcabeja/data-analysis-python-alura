@@ -146,7 +146,7 @@ Isso garante que todas as bibliotecas necessárias e versões compatíveis sejam
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/data-analysis-python-alura.git
+git clone https://github.com/ezequielcabeja/data-analysis-python-alura.git
 ```
 
 2. Navigate to the project folder:
@@ -214,44 +214,44 @@ This section highlights the most relevant visualizations generated during the an
 Esta seção destaca as visualizações mais relevantes geradas durante as análises. Os gráficos demonstram a capacidade de explorar dados, identificar padrões e comunicar insights de forma clara.
 Dashboard Overview – Filters & Key Metrics
 
-EN
+**EN**
 This main dashboard provides an interactive overview of salary data in the Data field. Users can filter results by year, seniority level, and contract type to dynamically update all metrics and visualizations. Key indicators such as average salary, maximum salary, total records, and most frequent job role allow for quick, high-level insights.
 
-PT
+**PT**
 Este painel principal apresenta uma visão geral interativa dos dados salariais na área de Dados. Os utilizadores podem filtrar os resultados por ano, senioridade e tipo de contrato, atualizando dinamicamente todas as métricas e visualizações. Indicadores-chave como salário médio, salário máximo, total de registros e cargo mais frequente permitem insights rápidos e estratégicos.
 
-![Visualization](images/Dashboard_Overview.png)
+![Visualization](imagens/Dashboard_Overview.png)
 
 Salary Analysis – Top Roles & Distribution
 
-EN
+**EN**
 This section highlights the top 10 job roles by average annual salary, enabling comparison between high-paying positions in the Data industry. Alongside, the salary distribution histogram reveals concentration ranges, salary spread, and the presence of high-end outliers, offering a deeper understanding of compensation patterns.
 
-PT
+**PT**
 Esta seção destaca os 10 cargos com maior salário médio anual, permitindo a comparação entre posições mais bem remuneradas na área de Dados. Em conjunto, o histograma de distribuição salarial revela faixas de concentração, dispersão dos salários e a presença de outliers, proporcionando uma compreensão mais profunda dos padrões de remuneração.
 
-![Visualization](images/Salary_Analysis.png)
+![Visualization](imagens/Salary_Analysis.png)
 
 Work Model & Global Salary Comparison
 
-EN
+**EN**
 The donut chart illustrates the proportion of work models (on-site, remote, and hybrid), revealing workforce trends in the Data sector. The global map complements this view by displaying the average salary of Data Scientists by country, enabling geographic comparisons and identifying regions with higher compensation levels.
 
-PT
+**PT**
 O gráfico em rosca apresenta a proporção dos modelos de trabalho (presencial, remoto e híbrido), evidenciando tendências do mercado na área de Dados. O mapa global complementa a análise ao mostrar o salário médio de Cientistas de Dados por país, permitindo comparações geográficas e a identificação de regiões com maior remuneração.
 
-![Visualization](images/Work_ModelDataset_view.png)
+![Visualization](imagens/Work_ModelDataset_view.png)
 
 Detailed Dataset View
 
-EN
+**EN**
 This table provides access to the complete, filtered dataset used in the analysis. Users can explore individual records including year, seniority, job role, salary, currency, country of residence, company size, and work model, ensuring transparency and supporting deeper, data-driven exploration.
 
-PT
+**PT**
 Esta tabela apresenta o conjunto de dados completo, já filtrado conforme as seleções do utilizador. É possível explorar registros individuais com informações como ano, senioridade, cargo, salário, moeda, país de residência, tamanho da empresa e modelo de trabalho, garantindo transparência e permitindo análises mais aprofundadas.
 ---
 
-## 🗃 Datasets Used | Conjuntos de Dados Utilizados
+## Datasets Used | Conjuntos de Dados Utilizados
 
 **EN**
 
