@@ -144,10 +144,9 @@ Isso garante que todas as bibliotecas necessárias e versões compatíveis sejam
 **EN**
 
 1. Clone the repository:
+  - git clone: https://github.com/ezequielcabeja/data-analysis-python-alura.git
+  - Extract the .zip file and enter the directory.
 
-```bash
-git clone https://github.com/ezequielcabeja/data-analysis-python-alura.git
-```
 
 2. Navigate to the project folder:
 
@@ -176,10 +175,9 @@ streamlit run app.py
 **PT**
 
 1. Clone o repositório:
+ - git clone https://github.com/ezequielcabeja/data-analysis-python-alura.git
+ - Extraia o .zip e entre no diretório
 
-```bash
-git clone https://github.com/ezequielcabeja/data-analysis-python-alura.git
-```
 
 2. Acesse a pasta do projeto:
 
@@ -268,7 +266,8 @@ Esta tabela apresenta o conjunto de dados completo, já filtrado conforme as sel
 ## 👤 Author | Autor
 
 Developed by / Desenvolvido por:
-**[Ezequiel Tchimbaya Cachapeu Paulo]**
+
+**- [Ezequiel Tchimbaya Cachapeu Paulo](https://github.com/ezequielcabeja)**
 
 ---
 
