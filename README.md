@@ -282,4 +282,5 @@ Este projeto é destinado a **fins educacionais e de portfólio**.
 ---
 
 ⭐ If this repository helped you, consider giving it a star!
+
 ⭐ Se este repositório te ajudou, considera deixar uma estrela!
